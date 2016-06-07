@@ -16,9 +16,10 @@
         "component": {
             "name": "typeahead.js-bootstrap3",
             "files": [
-			    "typeahead.css",
-			    "typeahead.less"
+                "typeahead.css",
+                "typeahead.less"
             ]
         }
-    }
+    },
+    "version": "0.2.3-m1"
 }
